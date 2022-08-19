@@ -31,7 +31,7 @@ p{
 }
 .bsc h5
 {
-    /* font-family: 'Source Code Pro', monospace; */
+    /* font-family: 'Source Co de Pro', monospace; */
     color:lightslategray;
    
 }
@@ -194,7 +194,7 @@ header{
     /* text-decoration: underline; */
     /* padding-bottom: 3px; */
    
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     line-height: 1;
     font-weight: 700;
     text-align: center;
