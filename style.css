@@ -31,10 +31,12 @@ p{
 }
 a:hover{
     text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 .bca h5{
-    font-family: 'Arvo', serif;
+    /* font-family: 'Arvo', serif; */
+    font-family: 'Barlow', sans-serif;
     /* font-family: 'Work Sans', sans-serif; */
     /* font-family: 'Roboto', sans-serif; */
     /* font-family:'Baloo Bhai 2', cursive; */
@@ -45,13 +47,17 @@ a:hover{
 .bsc h5
 
 {
-    font-family: 'Arvo', serif;
+    /* font-family: 'Arvo', serif; */
+    font-family: 'Barlow', sans-serif;
     /* font-family: 'Source Co de Pro', monospace; */
     color:lightslategray;
    
 }
 .bcm h5{
-    font-family: 'Arvo', serif;
+    /* font-family: 'Arvo', serif; */
+    font-family: 'Barlow', sans-serif;
+    
+
     /* font-family: 'Source Code Pro', monospace; */
     color:lightslategray;
 
@@ -66,7 +72,7 @@ header{
 
 } 
 .banner{
-    background-image: url(images/header8.png);
+    background-image: url(images/header10.png);
     height: 13vw;
     /* min-height: 100px; */
     background-repeat: no-repeat;
@@ -84,6 +90,10 @@ header{
     overflow: hidden;
     border-radius: 15px;
 
+}
+#about{
+    font-family: 'Barlow', sans-serif;
+    text-align: justify;
 }
 .img1 img{
     height: 250px;
