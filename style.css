@@ -84,7 +84,7 @@ header{
 } 
 .banner{
     background-image: url(images/header10.png);
-    height: 13vw;
+    height: 14vw;
     /* min-height: 100px; */
     background-repeat: no-repeat;
     background-position: top center ;
@@ -379,7 +379,5 @@ header{
 .opacity{
      opacity:0.5;
 }
-.opa{
-    opacity: 1;
-}
+
 
